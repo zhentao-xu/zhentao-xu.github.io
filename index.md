@@ -6,7 +6,7 @@ layout: default
 <div class="hfeed">
   <hr />
   <div class="hentry post no-border">
-    <img src="/images/contents/zhentao_photo_min.jpg" alt="Zhentao Xu" class="archive-thumbnail home-thumbnail" width="160" height="200" />
+    <img src="/images/contents/zhentao_photo_min.png" alt="Zhentao Xu" class="archive-thumbnail home-thumbnail" width="160" height="200" />
     <div class="entry-summary">
       <p>Hey, I am Zhentao, an engineer interested in machine learning and distributed systems.</p>
       <p>Currently, at <a href="https://linkedin.com" target="_blank" >LinkedIn</a>, I am a Sr. Machine Learning Engineer in the AI Foundation Team.</p>
