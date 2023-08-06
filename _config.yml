@@ -1,0 +1,29 @@
+highlighter: rouge
+permalink: none
+kramdown:
+  input: GFM
+  hard_wrap: false
+repository: xuzhentao/xuzhentao.github.io
+plugins:
+  - jemoji
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      permalink: /blog/:year/:month/:day/:title/
+google_analytics: 'UA-151447192-1'
+title: Zhentao
+description: Zhentao's portfolio and writings on machine learning, data science and distributed systems.
+url: http://xuzhentao.github.io
+author: Zhentao Xu
+logo: images/contents/NN.png
+social:
+  name: Zhentao
+  links:
+    - https://www.linkedin.com/in/zhentaoxu
+
