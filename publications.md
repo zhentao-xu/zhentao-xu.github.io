@@ -7,6 +7,21 @@ layout: default
 <div class="hfeed">
 
   <div class="hentry post project-batch-title">
+    <h2>2023</h2>
+  </div>
+
+  <div class="hentry post">
+    <div class="entry-summary">
+      <ul class="project-list">
+        <li><strong style="color:#333;">Zhentao Xu</strong>, Ruoying Wang, Girish Balaji, Manas Bundele, Xiaofei Liu, Leo Liu, Tie Wang. "AlerTiger: Deep Learning for AI Model Health Monitoring at LinkedIn." In Proceedings of the 29th ACM SIGKDD Conference
+on Knowledge Discovery and Data Mining (KDD ’23). (<a href="https://arxiv.org/pdf/2306.01977.pdf">PDF</a>) </li>
+      </ul>
+    </div>
+  </div>
+
+
+
+  <div class="hentry post project-batch-title">
     <h2>2020</h2>
   </div>
 
