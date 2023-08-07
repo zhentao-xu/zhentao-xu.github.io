@@ -14,12 +14,10 @@ layout: default
     <div class="entry-summary">
       <ul class="project-list">
         <li><strong style="color:#333;">Zhentao Xu</strong>, Ruoying Wang, Girish Balaji, Manas Bundele, Xiaofei Liu, Leo Liu, Tie Wang. "AlerTiger: Deep Learning for AI Model Health Monitoring at LinkedIn." In Proceedings of the 29th ACM SIGKDD Conference
-on Knowledge Discovery and Data Mining (KDD ’23). (<a href="https://arxiv.org/pdf/2306.01977.pdf">PDF</a>) </li>
+on Knowledge Discovery and Data Mining (KDD ’23). (<a href="https://dl.acm.org/doi/pdf/10.1145/3580305.3599802">PDF</a>, <a href="https://github.com/linkedin/AlerTiger">Code</a>) </li>
       </ul>
     </div>
   </div>
-
-
 
   <div class="hentry post project-batch-title">
     <h2>2020</h2>
