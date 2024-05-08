@@ -7,6 +7,20 @@ layout: default
 <div class="hfeed">
 
   <div class="hentry post project-batch-title">
+    <h2>2024</h2>
+  </div>
+
+  <div class="hentry post">
+    <div class="entry-summary">
+      <ul class="project-list">
+        <li><strong style="color:#333;">Zhentao Xu</strong>, Mark Jerome Cruz, Matthew Guevara, Tie Wang, Manasi Deshpande, Xiaofeng Wang, Zheng Li. "Retrieval-Augmented Generation with Knowledge Graphs for Customer Service Question Answering." In Proceedings of the The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’24). (<a href="https://arxiv.org/abs/2404.17723">PDF</a>) </li>
+      </ul>
+    </div>
+  </div>
+
+
+
+  <div class="hentry post project-batch-title">
     <h2>2023</h2>
   </div>
 
@@ -18,6 +32,8 @@ on Knowledge Discovery and Data Mining (KDD ’23). (<a href="https://dl.acm.org
       </ul>
     </div>
   </div>
+
+
 
   <div class="hentry post project-batch-title">
     <h2>2020</h2>
