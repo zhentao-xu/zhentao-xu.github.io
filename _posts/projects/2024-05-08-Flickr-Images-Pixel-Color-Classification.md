@@ -18,7 +18,7 @@ Colors convey deep meanings and emotions, significantly impacting how we perceiv
 
 ## Data Collection and Processing
 Our data is sourced from Flickr, utilizing user-generated tags to collect images corresponding to specific color names. We face challenges like image noisiness—where irrelevant colors dominate the intended label. To combat this, we've developed innovative denoising techniques that refine our training dataset, ensuring that our model learns from the most relevant features.
-![alt text](../../images/blog/2024-05/DataCollection.png)
+![alt text](/images/blog/2024-05/DataCollection.png)
 
 
 
@@ -36,9 +36,9 @@ We train our model using a capped number of data points per class to maintain ba
 ## Results
 The results are promising, with most pixels accurately classified into one of eight categories. This success is illustrated through side-by-side comparisons of original and classified images, providing a clear visual representation of the model's performance.
 
-![alt text](../../images/blog/2024-05/ClassificationResult.png)
+![alt text](/images/blog/2024-05/ClassificationResult.png)
 
-![alt text](../../images/blog/2024-05/Performance.png)
+![alt text](/images/blog/2024-05/Performance.png)
 
 ## Setup Instructions
 To replicate our environment or use our model:
