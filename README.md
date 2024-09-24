@@ -1,6 +1,12 @@
 ### Usage
 
-For building the site, use the command `./run_with_docker.sh server`.
+```
+docker-compose run jekyll bundle install
+
+docker-compose up
+```
+
+we can access it on [http://localhost:4000](http://localhost:4000)
 
 ### License
 
