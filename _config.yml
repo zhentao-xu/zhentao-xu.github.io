@@ -17,7 +17,7 @@ defaults:
       layout: post
       permalink: /blog/:year/:month/:day/:title/
 # Paste your GA4 Measurement ID here (e.g. G-XXXXXXXXXX) to enable analytics
-google_analytics: 'G-WDG5D0LH68'
+google_analytics: 'G-WS0ZN4DRYE'
 title: Zhentao
 description: Zhentao Xu's portfolio and writings on LLM agents, agent memory systems, machine learning, and large-scale distributed systems.
 url: https://zhentao-xu.github.io
