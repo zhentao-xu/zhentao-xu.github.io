@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '2.5.1'
+# ruby '2.5.1'  # temporarily relaxed for local serve with system Ruby
 
 gem 'github-pages'
 gem 'jekyll-compose', group: [:jekyll_plugins]
