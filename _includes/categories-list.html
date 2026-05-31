@@ -3,6 +3,7 @@
   <ul>
   {% assign sorted_categories = site.categories | sort %}
   {% for category in sorted_categories %}
+    {% if category[0] == "Leetcode" %}{% continue %}{% endif %}
     <li><a class="spec" href="/blog/categories.html#{{ category | first }}">{{ category | first }}</a></li>
   {% endfor %}
   </ul>

@@ -6,6 +6,7 @@ layout: blog
 
 <div class="hfeed">
   {% for post in site.posts %}
+    {% if post.categories contains "Leetcode" %}{% continue %}{% endif %}
     <div class="hentry post">
       <div class="sticky-header">
         <h2 class="entry-title"><a class="spec" href="{{ post.url }}" title="{{ post.title }}" rel="bookmark">{{ post.title }}</a></h2>

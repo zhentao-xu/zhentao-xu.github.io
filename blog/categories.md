@@ -9,6 +9,7 @@ layout: blog
   <ul>
   {% assign sorted_categories = site.categories | sort %}
   {% for category in sorted_categories %}
+    {% if category[0] == "Leetcode" %}{% continue %}{% endif %}
     <li>
       <h5 id="{{ category | first }}">&raquo; {{ category | first | capitalize }}</h5>
       <ul>

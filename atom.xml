@@ -12,6 +12,7 @@ site_url: https://zhentao-xu.github.io
 <id>{{ page.site_url }}</id>
 
 {% for post in site.posts %}
+{% if post.categories contains "Leetcode" %}{% continue %}{% endif %}
 <entry>
   <title>{{ post.title }}</title>
   <link href="{{ page.site_url }}{{ post.url }}"/>
