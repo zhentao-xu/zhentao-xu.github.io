@@ -30,7 +30,7 @@ layout: default
         <span style="color:#888;"> &nbsp;|&nbsp; Mar 2022 – Aug 2024</span>
       </p>
       <ul class="project-list">
-        <li><strong style="color:#333;">Graph-RAG Agent for Customer Service</strong>: Inventor of a knowledge-graph-augmented retrieval agent deployed in production, cutting median issue-resolution time by <strong style="color:#333;">28.6%</strong>. Published at <strong>SIGIR 2024</strong> (331+ citations). (<a href="https://arxiv.org/abs/2404.17723">paper</a>)</li>
+        <li><strong style="color:#333;">Graph-RAG Agent for Customer Service</strong>: Inventor of a knowledge-graph-augmented retrieval agent deployed in production, cutting median issue-resolution time by <strong style="color:#333;">28.6%</strong>. Published at <strong>SIGIR 2024</strong>. (<a href="https://arxiv.org/abs/2404.17723">paper</a>)</li>
       </ul>
 
       <p style="margin-bottom:4px;margin-top:18px;">
