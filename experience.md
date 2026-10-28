@@ -6,6 +6,19 @@ layout: default
 
 <div class="hfeed">
 
+  <!-- Google -->
+  <div class="hentry post project-batch-title">
+    <h2><img src="/images/logos/google.png" alt="Google" style="height:28px;width:28px;vertical-align:middle;margin-right:10px;border-radius:5px;" />Google</h2>
+  </div>
+  <div class="hentry post">
+    <div class="entry-summary">
+      <p style="margin-bottom:4px;">
+        <strong style="color:#333;font-size:1.05em;">Staff Software Engineer, Gemini Enterprise</strong>
+        <span style="color:#888;"> &nbsp;|&nbsp; Sep 2026 – Present</span>
+      </p>
+      <p style="color:#555;margin-top:0;">Build Gemini Enterprise and agentic products.</p>
+    </div>
+  </div>
 
 
   <!-- LinkedIn -->
@@ -17,7 +30,7 @@ layout: default
 
       <p style="margin-bottom:4px;">
         <strong style="color:#333;font-size:1.05em;">Staff Machine Learning Engineer in Agent and Agent Platform</strong>
-        <span style="color:#888;"> &nbsp;|&nbsp; Jun 2024 – Present</span>
+        <span style="color:#888;"> &nbsp;|&nbsp; Jun 2024 – Sep 2026</span>
       </p>
       <p style="color:#555;margin-top:0;">Architect of production-grade <strong style="color:#333;">LLM agent platforms</strong> and <strong style="color:#333;">agent memory systems</strong> — spanning agentic memory, prompt engineering, RAG, and agent orchestration — that power enterprise AI agents serving millions of users.</p>
       <ul class="project-list">
