@@ -44,6 +44,7 @@ layout: default
   <div class="hentry post">
     <div class="entry-summary">
       <ul class="project-list">
+        <li><a class="pub-fig" href="https://arxiv.org/abs/2610.16129" target="_blank" rel="noopener"><img src="/images/pubs/202610_pid_gated_prompt_adaptation.png" alt="PID-gated continual prompt adaptation feedback loop" /></a><strong style="color:#333;">Zhentao Xu</strong>. "PID-Gated Continual Prompt Adaptation Under Noisy Feedback." NeurIPS 2026 Workshop: Continual Learning in the Era of Foundation Models and Embodied Agents. (<a href="https://arxiv.org/abs/2610.16129">PDF</a>, <a href="https://github.com/zhentao-xu/pid-gated-agent-learning">Code</a>)</li>
         <li><a class="pub-fig" href="https://arxiv.org/abs/2604.26197" target="_blank" rel="noopener"><img src="/images/pubs/202604_hltm.png" alt="Hierarchical Long-Term Semantic Memory figure" /></a><strong style="color:#333;">Zhentao Xu</strong>, Shangjin Zhang, Emir Poyraz, Yvonne Li, Ye Jin, Xie Lu, Xiaoyang Gu, Karthik Ramgopal, Praveen Kumar Bodigutla, Xiaofeng Wang. "Hierarchical Long-Term Semantic Memory for LinkedIn's Hiring Agent." In Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’26). (<a href="https://arxiv.org/abs/2604.26197">PDF</a>)</li>
       </ul>
     </div>
